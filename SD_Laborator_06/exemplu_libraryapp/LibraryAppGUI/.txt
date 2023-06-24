@@ -1,0 +1,3 @@
+[
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."}
+]
